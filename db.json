@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "login": "hello1",
+      "password": "world1",
+      "mail": "test1@test.com"
+    },    
+    {
+      "id": 2,
+      "login": "hello2",
+      "password": "world2",
+      "mail": "test2@test.com"
+    },    
+    {
+      "id": 3,
+      "login": "hello3",
+      "password": "world3",
+      "mail": "test3@test.com"
+    },    
+    {
+      "id": 4,
+      "login": "hello4",
+      "password": "world4",
+      "mail": "test4@test.com"
+    }
+  ],
+  "posts": [  
+    {
+      "id": 1,
+      "userId": 1,
+      "label": "sunt aut facere",
+      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores",
+      "subBody": "5,000$",
+      "postedTime": "2020-04-22 18:38:51"
+    },
+    {
+      "id": 2,
+      "userId": 3,
+      "label": "sunt aut facere",
+      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores",
+      "subBody": "1,250$",
+      "postedTime": "2020-04-21 18:38:51"
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "label": "sunt aut facere",
+      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores",
+      "subBody": "3,000$",
+      "postedTime": "2020-02-22 18:38:51"
+    },
+    {
+      "id": 4,
+      "userId": 2,
+      "label": "sunt aut facere",
+      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores",
+      "subBody": "2.630$",
+      "postedTime": "2020-03-12 18:38:51"
+    },
+    {
+      "id": 5,
+      "userId": 4,
+      "label": "sunt aut facere",
+      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores",
+      "subBody": "10$",
+      "postedTime": "2020-04-13 18:38:51"
+    },
+    {
+      "id": 6,
+      "userId": 4,
+      "label": "sunt aut facere",
+      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores",
+      "subBody": "526$",
+      "postedTime": "2020-03-15 18:38:51"
+    }
+  ]
+}
